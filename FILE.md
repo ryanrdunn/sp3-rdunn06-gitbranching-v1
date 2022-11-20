@@ -7,4 +7,7 @@
 7 git push -u origin main
 8 git branch bug-fix
 9 git checkout master
-git commit -m "commit 1"
+10 git add FILE.MD
+11 git status
+12 git commit -m "commit 1"
+13 git commit -m "commit 2"
